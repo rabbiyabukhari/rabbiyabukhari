@@ -5,10 +5,10 @@ Student & Data Science Enthusiast @ FCIT
 
 **_Areas of Interest_**
 
-•Artificial Intelligence (AI)
-•Machine Learning (ML)
-•Computer Vision
-•Research & Development
+Artificial Intelligence (AI), 
+ Machine Learning (ML), 
+ Computer Vision, 
+ Research & Development
 
 **_Current Focus_** 🎯
 
