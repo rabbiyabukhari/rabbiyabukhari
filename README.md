@@ -18,6 +18,7 @@ Exploring AI/ML applications | Developing Computer Vision skills | Engaging in r
 **_Education_** 📖
 
 Bachelor's in Data Science, Faculty of Computing & Information Technology (FCIT)
+
 Current Semester: 5th
 
 **_Connect_** 
