@@ -22,4 +22,5 @@ Current Semester: 5th
 **_Connect_** 
 
 LinkedIn: https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav
+
 Email: rabbiya.bukhari786@gmail.com
