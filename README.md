@@ -23,6 +23,6 @@ Current Semester: 5th
 
 **_Connect_** 
 
-LinkedIn: https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav
+LinkedIn: [ https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav](https://www.linkedin.com/in/syeda-rabbiya-bukhari-462819196/)
 
 Email: rabbiya.bukhari786@gmail.com
