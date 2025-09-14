@@ -30,13 +30,13 @@ I’m part of a team working on **handwritten text recognition (HTR)** for **Not
 
 ## Featured projects
 
-- **Plantly — plant recognition + care tips (team project)**  
+- **Plantly (team project): plant recognition + care tips**  
   Uses the plant.id API for identification and Wikipedia scraping for concise care guidance.  
   **My role:** care-tips pipeline and API integration.  
   _TypeScript, React, Flask/FastAPI_  
   Repo: https://github.com/rabbiyabukhari/ML_project-plantly-smart-plant-care
 
-- **Google Play Store — analysis, clustering, rating prediction**  
+- **Google Play Store: analysis, clustering, rating prediction**  
   Notebook-driven pipeline: data cleaning, EDA, **KMeans** clustering, and baseline regression (RandomForest/GradientBoosting) with MAE/MSE/R² reporting.  
   _Python, pandas, scikit-learn, matplotlib_  
   Repo: https://github.com/rabbiyabukhari/Google-Play-Store-Apps-Comprehensive-Analysis-Clustering-and-Prediction
@@ -51,7 +51,7 @@ I’m part of a team working on **handwritten text recognition (HTR)** for **Not
   _Python_  
   Repo: https://github.com/rabbiyabukhari/Dynammic-Programming-Codes  <!-- consider renaming to Dynamic-Programming-Codes -->
 
-- **Notescape — AI-assisted study workspace (team project)**  
+- **Notescape (team project): AI-assisted study workspace**  
   **My role:** CI/CD setup (GitHub Actions), file-upload pipeline, PDF chunking for downstream processing/search, merging teammates’ work (PR reviews), UI/UX design for study flows; ongoing HTR research to improve accuracy on existing datasets (CER/WER benchmarking).  
   _TypeScript, React_  
   Repo: https://github.com/NotescapeAi/Notescape
@@ -61,14 +61,14 @@ I’m part of a team working on **handwritten text recognition (HTR)** for **Not
 ## Competitions
 
 - **SOFTEC’25 – Machine Learning (36-hour sprint)** — **21/25 overall**  
-  This one rattled me. Instead of deciding ML “wasn’t my cup of tea,” I asked a better question: where does my ML practice actually lack, what don’t I know yet, and what should I do next?
+  This rattled me. Instead of deciding ML wasn’t my cup of tea, I asked the better question: where does my practice actually lack, what don’t I know yet, and what should I do next?
 
 - **Palm Print | Auth (two rounds)** — **4/24 in Round 2 (jury evaluation)**  
-  During the event I briefly reached **1st** on the live board. In the last six hours I couldn’t work because I was also competing elsewhere. I also made preventable mistakes:
-  - Trained on Colab T4 across two Google accounts → run/file tracking suffered
-  - Training error oscillated; accuracy stalled near ~96% → I hard-coded a threshold/percent under time pressure
-  - Limited evolutionary search to ~30 generations (others ran ~100+)
-  - Didn’t spin up a minimal RNN baseline in time
+  I briefly reached 1st on the live board. In the last six hours I couldn’t work because I was also competing elsewhere. I also made preventable mistakes:
+  - Trained on Colab T4 across two Google accounts, so run and file tracking suffered
+  - Training error oscillated and accuracy stalled near ~96%, and under pressure I hard-coded a threshold/percent
+  - Limited evolutionary search to ~30 generations while others ran ~100+
+  - Didn’t stand up a minimal RNN baseline in time
 
 ### What I learned
 - One account and a clean folder tree. If files are messy, results will be messy.
@@ -82,7 +82,7 @@ I’m part of a team working on **handwritten text recognition (HTR)** for **Not
 - Tracking: write `metrics.csv` with timestamp, seed, config hash, MAE/MSE/F1, and chosen threshold; save artifacts per run
 - Budget: 100–150 generations or trials with patience and early stop
 - Baselines: keep a tiny RNN and a tree-based regressor that train in under a minute
-- Schedule: no parallel competitions on the final day; hold a final test window for sanity checks
+- Schedule: no parallel competitions on the final day; keep a final test window for sanity checks
 
 ---
 
@@ -102,13 +102,13 @@ I’m part of a team working on **handwritten text recognition (HTR)** for **Not
 **Data:** pandas, NumPy, matplotlib  
 **Apps/Tools:** FastAPI, Git, Docker, Linux, Jupyter/Colab  
 **Research (HTR):** benchmarking on existing datasets, CER/WER evaluation, decoding strategies, augmentation, error analysis  
-**UI/UX:** basic Figma; layout & typography for data apps  
+**UI/UX:** basic Figma; layout and typography for data apps  
 **Ops:** CI/CD with GitHub Actions; repo hygiene and PR reviews
 
 ---
 
 ## Education
-**BS Data Science, FCIT** — 7th semester
+**BS Data Science, FCIT** (7th semester)
 
 ---
 
