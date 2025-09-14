@@ -37,7 +37,7 @@ I’m part of a team working on **handwritten text recognition (HTR)** for **Not
   Repo: https://github.com/rabbiyabukhari/ML_project-plantly-smart-plant-care
 
 - **Google Play Store: analysis, clustering, rating prediction**  
-  Notebook-driven pipeline: data cleaning, EDA, **KMeans** clustering, and baseline regression (RandomForest/GradientBoosting) with MAE/MSE/R² reporting.  
+  Notebook-driven pipeline: data cleaning, EDA, KMeans clustering, and baseline regression (RandomForest/GradientBoosting) with MAE/MSE/R² reporting.  
   _Python, pandas, scikit-learn, matplotlib_  
   Repo: https://github.com/rabbiyabukhari/Google-Play-Store-Apps-Comprehensive-Analysis-Clustering-and-Prediction
 
@@ -63,7 +63,7 @@ I’m part of a team working on **handwritten text recognition (HTR)** for **Not
 - **SOFTEC’25 – Machine Learning (36-hour sprint)** — **21/25 overall**  
   This rattled me. Instead of deciding ML wasn’t my cup of tea, I asked the better question: where does my practice actually lack, what don’t I know yet, and what should I do next?
 
-- **Palm Print | Auth (two rounds)** — **4/24 in Round 2 (jury evaluation)**  
+- **PuCON'25 - Palm Print | Auth (two rounds)** — **4/24 in Round 2 (jury evaluation)**  
   I briefly reached 1st on the live board. In the last six hours I couldn’t work because I was also competing elsewhere. I also made preventable mistakes:
   - Trained on Colab T4 across two Google accounts, so run and file tracking suffered
   - Training error oscillated and accuracy stalled near ~96%, and under pressure I hard-coded a threshold/percent
