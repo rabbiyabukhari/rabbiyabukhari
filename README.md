@@ -105,12 +105,15 @@ I’m part of a team working on **handwritten text recognition (HTR)** for **Not
 **UI/UX:** basic Figma; layout and typography for data apps  
 **Ops:** CI/CD with GitHub Actions; repo hygiene and PR reviews
 
----
-
 ## Education
-**BS Data Science, FCIT** (7th semester)
+**BS Data Science, FCIT** · 7th semester
 
----
+**A Levels, The Lahore Alma**  
+Selected subjects: Computer Science, Mathematics, Art & Design
+
+**O Levels, Garrison Academy for Cambridge Studies**  
+Selected subjects: Mathematics, Physics, Chemistry, Computer Science
+
 
 ## GitHub stats
 <p>
