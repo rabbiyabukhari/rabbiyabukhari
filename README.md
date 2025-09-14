@@ -1,22 +1,102 @@
-**_About Me_**
+<h1 align="center">Syeda Rabbiya Bukhari</h1>
+<p align="center">BS Data Science @ FCIT (7th semester) • Machine Learning • HTR Research (team) • UI/UX (learning)</p>
 
-Hi, I'm Syeda Rabbiya Bukhari!
+<p align="center">
+  <a href="https://www.kaggle.com/rabbiyabukhari">Kaggle</a> •
+  <a href="https://www.linkedin.com/in/syeda-rabbiya-bukhari-462819196/">LinkedIn</a> •
+  <a href="mailto:rabbiya.bukhari786@gmail.com">Email</a>
+</p>
 
-Student & Data Science Enthusiast @ FCIT
+---
 
-**_Areas of Interest_**
+## About me
+I build practical ML projects and write down what works and what doesn’t.  
+I’m part of a team working on **handwritten text recognition (HTR)** for **Notescape**, where we benchmark on standard datasets and focus on **improving accuracy** (CER/WER) through better training, decoding, augmentation, and error analysis.
 
-Artificial Intelligence (AI), 
- Machine Learning (ML), 
- Computer Vision, 
- Research & Development
+## Now
+- Strengthening ML fundamentals: EDA → features → classic models → proper validation
+- Studying deep learning (foundations, training routines, evaluation)
+- Strengthening UI/UX across my projects so results are clear, accessible, and visually consistent.
+- Improving repo structure and READMEs across learning projects
 
-**_Current Focus_** 🎯
+---
 
-Exploring AI/ML applications | Developing Computer Vision skills | Engaging in research projects
+## Featured projects
 
-**_Education_** 📖
+- **Plantly — plant recognition + care tips (team project)**  
+  Uses the plant.id API for identification and Wikipedia scraping for concise care guidance.  
+  **My role:** care-tips pipeline and API integration.  
+  _TypeScript, React, Flask/FastAPI_  
+  Repo: https://github.com/rabbiyabukhari/ML_project-plantly-smart-plant-care
 
-Bachelor's in Data Science, Faculty of Computing & Information Technology (FCIT)
+- **Google Play Store — analysis, clustering, rating prediction**  
+  Notebook-driven pipeline: data cleaning, EDA, **KMeans** clustering, and baseline regression (RandomForest/GradientBoosting) with MAE/MSE/R² reporting.  
+  _Python, pandas, scikit-learn, matplotlib_  
+  Repo: https://github.com/rabbiyabukhari/Google-Play-Store-Apps-Comprehensive-Analysis-Clustering-and-Prediction
 
-Current Semester: 7th
+- **Artificial Intelligence (classic search algorithms)**  
+  BFS, DFS, IDDFS, Greedy Best-First, and A* with notes and lab material.  
+  _Python_  
+  Repo: https://github.com/rabbiyabukhari/Artificial_Intelligence
+
+- **Dynamic Programming (learning repo)**  
+  Solutions to core DP problems (knapsack, LIS, coin change, edit distance, etc).
+  _Python_  
+  Repo: https://github.com/rabbiyabukhari/Dynammic-Programming-Codes  <!-- consider renaming to Dynamic-Programming-Codes -->
+
+- **Notescape — AI-assisted study workspace (team project)**  
+  **My role:** CI/CD setup (GitHub Actions), file-upload pipeline, PDF chunking for downstream processing/search, merging teammates’ work (PR reviews), UI/UX design for study flows; ongoing HTR research to improve accuracy on existing datasets (CER/WER benchmarking).  
+  _TypeScript, React_  
+  Repo: https://github.com/NotescapeAi/Notescape
+
+---
+
+## Competitions
+
+- **SOFTEC’25 – Machine Learning (36-hour sprint)** — **21/25 overall**  
+  This one rattled me. Instead of deciding ML “wasn’t my cup of tea,” I asked a better question: where does my ML practice actually lack, what don’t I know yet, and what should I do next?
+
+- **Palm Print | Auth (two rounds)** — **4/24 in Round 2 (jury evaluation)**  
+  During the event I briefly reached 1st on the live board. In the last six hours I could not work because I was also competing elsewhere. I also made preventable mistakes:
+  - Trained on Colab T4 across two Google accounts, so runs and files were not tracked well.
+  - Training error oscillated and accuracy stalled near ~96%. Under pressure I hard-coded a threshold/percent.
+  - Limited evolutionary search to ~30 generations while others ran ~100+.
+  - Did not spin up a minimal RNN baseline in time.
+
+### What I learned
+- One account and a clean folder tree. If files are messy, results will be messy.
+- No hard-coded thresholds. Tune on a held-out set and record the choice.
+- Give search methods enough budget and log convergence.
+- Start with a simple baseline, change one thing at a time, and measure it.
+- Avoid overlapping commitments near the deadline. Reserve the last six hours for stability checks.
+
+### Next-time plan
+- Colab hygiene: `/MyDrive/ml_runs/<project>/<YYYY-MM-DD>_<exp>` with a `config.json` per run.
+- Tracking: write `metrics.csv` with timestamp, seed, config hash, MAE/MSE/F1, and chosen threshold. Save artifacts per run.
+- Budget: 100–150 generations or trials with patience and early stop.
+- Baselines: keep a tiny RNN and a tree-based regressor that train in under a minute.
+- Schedule: no parallel competitions on the final day; hold a final test window for sanity checks.
+
+---
+
+## Skills (working set)
+**Languages:** Python, SQL, TypeScript  
+**ML:** scikit-learn, model selection/validation, basic tuning  
+**Data:** pandas, NumPy, matplotlib  
+**Apps/Tools:** FastAPI, Git, Docker, Linux, Jupyter/Colab  
+**Research (HTR):** benchmarking on existing datasets, CER/WER evaluation, decoding strategies, augmentation, error analysis  
+**UI/UX:** basic Figma; layout & typography for data apps  
+**Ops:** CI/CD with GitHub Actions; repo hygiene and PR reviews
+
+---
+
+## Education
+**BS Data Science, FCIT** — 7th semester
+
+---
+
+## GitHub stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=rabbiyabukhari&show_icons=true&hide_title=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbiyabukhari&layout=compact" height="150">
+</p>
