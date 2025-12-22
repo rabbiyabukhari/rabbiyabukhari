@@ -70,20 +70,6 @@ I’m part of a team working on **handwritten text recognition (HTR)** for **Not
   - Limited evolutionary search to ~30 generations while others ran ~100+
   - Didn’t stand up a minimal RNN baseline in time
 
-### What I learned
-- One account and a clean folder tree. If files are messy, results will be messy.
-- No hard-coded thresholds. Tune on a held-out set and record the choice.
-- Give search methods enough budget and log convergence.
-- Start with a simple baseline, change one thing at a time, and measure it.
-- Avoid overlapping commitments near the deadline; reserve the last six hours for stability checks.
-
-### Next-time plan
-- Colab hygiene: `/MyDrive/ml_runs/<project>/<YYYY-MM-DD>_<exp>` with a `config.json` per run
-- Tracking: write `metrics.csv` with timestamp, seed, config hash, MAE/MSE/F1, and chosen threshold; save artifacts per run
-- Budget: 100–150 generations or trials with patience and early stop
-- Baselines: keep a tiny RNN and a tree-based regressor that train in under a minute
-- Schedule: no parallel competitions on the final day; keep a final test window for sanity checks
-
 ---
 
 ## Skills (working set)
