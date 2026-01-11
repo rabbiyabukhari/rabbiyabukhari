@@ -1,6 +1,6 @@
 <h1 align="center">Syeda Rabbiya Bukhari</h1>
 <p align="center">
-  BS Data Science @ FCIT · Final Year
+  BS Data Science · Final Year Student
 </p>
 
 <p align="center">
@@ -17,81 +17,78 @@
 
 ---
 
-## About
+### About
 
-Final-semester **Data Science undergraduate** interested in **machine learning, deep learning, and applied AI systems**.
+Final-year **Data Science undergraduate** interested in **machine learning and deep learning**, and in how these ideas are explored and used within applications and systems.
 
-I focus on building **end-to-end ML-enabled systems**, including data ingestion, document processing, ML pipelines, APIs, and dashboards. I am interested in **research-oriented work**, reproducible systems, and open-source contributions driven by real constraints.
+My academic interests are research-oriented. I am particularly interested in understanding data workflows, system design choices, evaluation, and how learning-based components can be integrated into larger applications.
 
 ---
 
-## Tech Stack
+### Focus Areas
+- Machine learning and deep learning  
+- Data pipelines and evaluation  
+- Backend services and data workflows  
+- Application design for data-driven systems  
 
-### Languages
+---
+
+### Stack
+
+**Languages**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
 </p>
 
-### Backend & Systems
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pgvector-336791?style=flat"/>
-  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat&logo=minio&logoColor=white"/>
-</p>
-
-### Data, ML & DL
+**Data & Learning**
 <p>
   <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Deep%20Learning-5A5A5A?style=flat"/>
-  <img src="https://img.shields.io/badge/OCR-4B8BBE?style=flat"/>
-  <img src="https://img.shields.io/badge/Embeddings-7B68EE?style=flat"/>
 </p>
 
-### Frontend
+**Backend & Applications**
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-0A0A0A?style=flat"/>
+</p>
+
+**Frontend & Tooling**
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Dashboards-2E7D32?style=flat"/>
-  <img src="https://img.shields.io/badge/Document--based%20UI-455A64?style=flat"/>
-</p>
-
-### DevOps
-<p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white"/>
 </p>
 
 ---
 
-## Final Year Project
+### Selected Project
 
-### **Notescape — AI-Assisted Study Workspace**
+**Notescape — Study Workspace for Digital Content**
 
-An end-to-end system designed to support learning from **digital and scanned documents**.
+An academic project focused on designing and implementing an application for organizing and studying learning material.
 
 **Contributions**
-- Backend API development (FastAPI)
-- File upload, access control, and storage
-- Integration with S3-compatible storage
-- OCR workflow with digital PDF detection
-- PDF chunking for downstream processing
-- Study-focused dashboards and UI
-- CI/CD and branch integration
+- Backend API design and implementation  
+- File ingestion, parsing, and preprocessing  
+- OCR integration and document handling  
+- Frontend development and UI implementation  
+- Dashboard and analytics views for study progress  
+- UI/UX decisions for document-centric workflows  
+- Storage, access control, and system integration  
 
-🔗 **Repository:** https://github.com/NotescapeAi/Notescape
+🔗 https://github.com/NotescapeAi/Notescape
 
 ---
 
-## Interests
-Deep learning · Document AI · ML systems · Research · Open-source · Painting
+### Interests
+Machine learning · Deep learning · Research · Application design · Painting
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rabbiyabukhari&show_icons=true&theme=tokyonight" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rabbiyabukhari&show_icons=true&theme=tokyonight" height="135"/>
 </p>
