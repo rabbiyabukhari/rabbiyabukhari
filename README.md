@@ -66,29 +66,5 @@ My academic interests are research-oriented. I am particularly interested in und
 </p>
 
 ---
-
-### Selected Project
-
-**Notescape — Study Workspace for Digital Content**
-
-An academic project focused on designing and implementing an application for organizing and studying learning material.
-
-**Contributions**
-- Backend API design and implementation  
-- File ingestion, parsing, and preprocessing  
-- OCR integration and document handling  
-- Frontend development and UI implementation  
-- Dashboard and analytics views for study progress  
-- UI/UX decisions for document-centric workflows  
-- Storage, access control, and system integration  
-
-🔗 https://github.com/NotescapeAi/Notescape
-
----
-
-### Interests
-Machine learning · Deep learning · Research · Application design · Painting
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rabbiyabukhari&show_icons=true&theme=tokyonight" height="135"/>
+/api?username=rabbiyabukhari&show_icons=true&theme=tokyonight" height="135"/>
 </p>
