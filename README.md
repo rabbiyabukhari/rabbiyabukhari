@@ -66,5 +66,5 @@ My academic interests are research-oriented. I am particularly interested in und
 </p>
 
 ---
-/api?username=rabbiyabukhari&show_icons=true&theme=tokyonight" height="135"/>
+
 </p>
